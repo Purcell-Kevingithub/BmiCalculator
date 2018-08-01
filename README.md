@@ -1,2 +1,2 @@
 # BmiCalculator
-Accepts input to calculate current BMI
+Accepts input to calculate current Body Mass Index (BMI)
